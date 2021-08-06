@@ -1,4 +1,4 @@
-# "Hello Apostille" - The "Hello world," of Apostille documentation.
+# "Hello Apostille" - The "Hello world" of Apostille documentation.
 
 <em>Diagram 1: The basic transaction flow for an Apostille transaction</em>
 
